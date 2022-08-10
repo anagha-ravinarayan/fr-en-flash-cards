@@ -1,0 +1,9 @@
+APP_TITLE = "Flashy"
+BACKGROUND_COLOR = "#B1DDC6"
+CANVAS_WIDTH = 800
+CANVAS_HEIGHT = 526
+FRENCH = "French"
+ENGLISH = "English"
+LANGUAGE_FONT = ("Ariel", 40, "italic")
+WORD_FONT = ("Ariel", 60, "bold")
+PADDING = 50
